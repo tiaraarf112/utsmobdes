@@ -1,0 +1,42 @@
+name: book_catalog
+description: "Aplikasi Katalog Buku - UTS Mobile App Development"
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.9.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+
+  # State Management
+  flutter_bloc: ^9.1.1
+  equatable: ^2.0.7
+
+  # Networking
+  http: ^1.4.0
+
+  # Local Storage / Caching
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+
+  # Security
+  flutter_secure_storage: ^9.2.4
+
+  # UI Enhancements
+  shimmer: ^3.0.0
+  cached_network_image: ^3.4.1
+
+  # Connectivity
+  connectivity_plus: ^6.1.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
