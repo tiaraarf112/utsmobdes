@@ -61,7 +61,6 @@ lib/
 
 1. **Kloning Proyek atau Buka Folder Akses:**
    Pastikan Anda sudah berada di lokasi direktori `book_catalog`.
-   atau C:\Users\user>cd C:\utsmobdes\book_catalog
    
 2. **Unduh Paket Dependensi:**
    Buka terminal di root proyek dan jalankan perintah:
